@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Guilherme, a back-end developer working since 2017 with programming</div>  
-  
-
-- 🌱 I’m currently learning **Software Architectures** and **Golang (a lot of)**
+### <div align="center">I'm Guilherme, a software engineer working since 2017 with programming</div>
   
 
 <br/>  
